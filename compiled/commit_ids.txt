@@ -15,14 +15,23 @@ Date:   Wed Sep 6 13:01:57 2017 -0400
     
     added package.json to be able to intall via npm package manager
 /N/u/brlife/git/wma_tools
-commit cbe3920a09909c3e6fc3f9e6741b6d6ad9e38681
+commit 09d3a5e260e2e0e9c572706c399e9ea81b17cefb
 Author: Daniel Bullock <dnbulloc@iu.edu>
-Date:   Fri May 10 16:15:01 2019 -0400
+Date:   Mon May 13 16:32:42 2019 -0400
 
-    added str to num for input
+    fixed a stupid added a
 /N/u/brlife/git/encode
 commit 538a73bc4f8b4d94545bc2dfe434fec55e0c7a95
 Author: Soichi Hayashi <hayashis@iu.edu>
 Date:   Tue Jan 22 10:14:41 2019 -0500
 
     fixed the issue where fiber goes missing.
+/N/u/brlife/git/mba
+commit 331ad7f1320c2e96c7563c6b3805154e8364df96
+Merge: 03b97b3 eb9d210
+Author: Franco Pestilli <frakkopesto@gmail.com>
+Date:   Thu Nov 12 10:09:38 2015 -0500
+
+    Merge pull request #4 from francopestilli/master
+    
+    Documentation: Update mbaFiberProperties.m
