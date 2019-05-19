@@ -15,11 +15,11 @@ Date:   Wed Sep 6 13:01:57 2017 -0400
     
     added package.json to be able to intall via npm package manager
 /N/u/brlife/git/wma_tools
-commit 09d3a5e260e2e0e9c572706c399e9ea81b17cefb
+commit 1cd00267b91f55d479224bffb49ffbabab01407a
 Author: Daniel Bullock <dnbulloc@iu.edu>
-Date:   Mon May 13 16:32:42 2019 -0400
+Date:   Thu May 16 14:08:35 2019 -0400
 
-    fixed a stupid added a
+    fixed if statement to actually handle either classification input or output input.  Also, made directory before conditional
 /N/u/brlife/git/encode
 commit 538a73bc4f8b4d94545bc2dfe434fec55e0c7a95
 Author: Soichi Hayashi <hayashis@iu.edu>
@@ -27,11 +27,9 @@ Date:   Tue Jan 22 10:14:41 2019 -0500
 
     fixed the issue where fiber goes missing.
 /N/u/brlife/git/mba
-commit 331ad7f1320c2e96c7563c6b3805154e8364df96
-Merge: 03b97b3 eb9d210
-Author: Franco Pestilli <frakkopesto@gmail.com>
-Date:   Thu Nov 12 10:09:38 2015 -0500
+commit 20f2d2bf19bda5ff6faaf9d783314f612e1f1021
+Merge: eadde9e 67e3b63
+Author: francopestilli <frakkopesto@gmail.com>
+Date:   Fri Jan 13 17:07:45 2017 -0500
 
-    Merge pull request #4 from francopestilli/master
-    
-    Documentation: Update mbaFiberProperties.m
+    Merge branch 'master' of https://github.com/francopestilli/mba
